@@ -1,0 +1,51 @@
+{
+    "title": "0cf56c23 33ee 4837 c748 zippy backpack",
+    "description": "",
+    "referenceId": "112126748",
+    "category": null,
+    "date_created": "1416274533",
+    "date_modified": "1505161378",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "user_id": "0",
+    "id": "117410308",
+    "loginId": "1758991",
+    "entityType": "1",
+    "titleTextEncoded": "0cf56c23-33ee-4837-c748-zippy-backpack",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 14.831203,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 48,
+    "settings": "",
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/112126748.sd.mp4?s=b09a9815945c3dda615d20ae1e35c66496c0aef4&profile_id=112&oauth2_token_id=994715502"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/496985691_1280x720.jpg?r=pad",
+        "mediaDuration": 48,
+        "prettyDuration": "00:48",
+        "uploadDate": 1416274533,
+        "tags": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "uploader": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

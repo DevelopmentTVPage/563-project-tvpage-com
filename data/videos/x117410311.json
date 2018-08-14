@@ -1,0 +1,51 @@
+{
+    "title": "DRAGON UNVEILS THE FLOATABLE COLLECTION",
+    "description": "",
+    "referenceId": "109628736",
+    "category": null,
+    "date_created": "1413922612",
+    "date_modified": "1505161378",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "user_id": "0",
+    "id": "117410311",
+    "loginId": "1758991",
+    "entityType": "1",
+    "titleTextEncoded": "DRAGON-UNVEILS-THE-FLOATABLE-COLLECTION",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 140.69905,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 59,
+    "settings": "",
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/109628736.sd.mp4?s=290e6550d2f93a2975af516cc5bb260acf30cf85&profile_id=112&oauth2_token_id=994715502"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/493622470_1280x720.jpg?r=pad",
+        "mediaDuration": 59,
+        "prettyDuration": "00:59",
+        "uploadDate": 1413922612,
+        "tags": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "uploader": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}
