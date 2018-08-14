@@ -1,0 +1,51 @@
+{
+    "title": "c53f7610 a40c 4362 a378 metro weekender",
+    "description": "",
+    "referenceId": "112127127",
+    "category": null,
+    "date_created": "1416274952",
+    "date_modified": "1505161378",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "user_id": "0",
+    "id": "117410304",
+    "loginId": "1758991",
+    "entityType": "1",
+    "titleTextEncoded": "c53f7610-a40c-4362-a378-metro-weekender",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 10.392089,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 63,
+    "settings": "",
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/112127127.sd.mp4?s=82fe661305deeaa99fa85233053298637dee63f6&profile_id=112&oauth2_token_id=994715502"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/496986042_1280x720.jpg?r=pad",
+        "mediaDuration": 63,
+        "prettyDuration": "01:03",
+        "uploadDate": 1416274952,
+        "tags": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "uploader": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

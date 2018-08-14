@@ -1,0 +1,51 @@
+{
+    "title": "09d06ae8 806f 465f d5dc jetsetter duffel",
+    "description": "",
+    "referenceId": "112126750",
+    "category": null,
+    "date_created": "1416274533",
+    "date_modified": "1505161378",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "user_id": "0",
+    "id": "117410307",
+    "loginId": "1758991",
+    "entityType": "1",
+    "titleTextEncoded": "09d06ae8-806f-465f-d5dc-jetsetter-duffel",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.372747,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 33,
+    "settings": "",
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/112126750.sd.mp4?s=823d040f7db6aebca2a84bb928b29d8aeea81343&profile_id=112&oauth2_token_id=994715502"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/496985488_960x540.jpg?r=pad",
+        "mediaDuration": 33,
+        "prettyDuration": "00:33",
+        "uploadDate": 1416274533,
+        "tags": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "uploader": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}
