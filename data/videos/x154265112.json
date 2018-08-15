@@ -32,10 +32,19 @@
         "hdvFlag": 0,
         "description": "One Hunid is the debut album from Hip Hop group The Product. Veteran southern rapper Scarface recruited two young MC's, Willie Hen and Young Malice, to join him for the release. The album features...",
         "tags": "",
-        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KIJcZKTe9oE\/sddefault.jpg",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154265112\/thumbnail\/image-thumbnail-640-6711228d87a652ad17bdb190efb0e59c.jpg",
         "videoId": "KIJcZKTe9oE",
         "mediaDuration": 266,
-        "prettyDuration": "00:04:26"
+        "prettyDuration": "00:04:26",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1758991\/154265112\/user-images\/image-640-3578829baae99e63f9d74714d030a09e.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154265112\/user-images\/image-640-3578829baae99e63f9d74714d030a09e.jpg",
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1758991\/154265112\/thumbnail\/image-thumbnail-256-7ae5b82b74cd0f90c5e6eeef1b141ed3.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1758991\/154265112\/thumbnail\/image-thumbnail-480-5c24db88a5bd15f30f046920d1d6c654.jpg",
+            "640": "\/\/v-dev.tvpage.com\/1758991\/154265112\/thumbnail\/image-thumbnail-640-6711228d87a652ad17bdb190efb0e59c.jpg"
+        }
     },
     "transcripts": null,
     "metrics_statistics": null,

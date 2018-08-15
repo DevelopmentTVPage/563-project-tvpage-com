@@ -32,10 +32,19 @@
         "hdvFlag": 1,
         "description": "Hello everyone! Have you already voted for BTS in MAMA2016? CREDITS: BigHit Entertainment., ibighit, MediCom Toy Incorporated, Mnet American Hustle Life, KBS A Song For You, TashaLovez...",
         "tags": "",
-        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BNSa_zhnoYI\/sddefault.jpg",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154265111\/thumbnail\/image-thumbnail-640-4abf10f497fea1a1c81db5245b74f3ab.jpg",
         "videoId": "BNSa_zhnoYI",
         "mediaDuration": 347,
-        "prettyDuration": "00:05:47"
+        "prettyDuration": "00:05:47",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1758991\/154265111\/user-images\/image-640-fc5dee654f58bc95d68c8d47b2643735.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154265111\/user-images\/image-640-fc5dee654f58bc95d68c8d47b2643735.jpg",
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1758991\/154265111\/thumbnail\/image-thumbnail-256-db5824c6eb9c71f0198e8df6ab402cf2.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1758991\/154265111\/thumbnail\/image-thumbnail-480-8a17483bcd246f9124b0dba3ba121449.jpg",
+            "640": "\/\/v-dev.tvpage.com\/1758991\/154265111\/thumbnail\/image-thumbnail-640-4abf10f497fea1a1c81db5245b74f3ab.jpg"
+        }
     },
     "transcripts": null,
     "metrics_statistics": null,
