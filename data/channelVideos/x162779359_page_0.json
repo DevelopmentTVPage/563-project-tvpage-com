@@ -1,0 +1,236 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "117410303",
+            "title": "8f4e92e7 c1ce 41f2 f711 speedy weekender (Enhanced)",
+            "date_created": "1416275495",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "speedy weekender",
+            "asset": {
+                "type": "mp4",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/112127662.sd.mp4?s=f946a9b2d3fd57871df7e8fc302a53cd46cf51b4&profile_id=112&oauth2_token_id=994715502"
+                    }
+                ],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/496986533_295x166.jpg?r=pad",
+                "mediaDuration": 74,
+                "prettyDuration": "01:14",
+                "uploadDate": 1416275495,
+                "tags": "speedy,weekender"
+            },
+            "parentId": "162779359",
+            "url": "\/new-channel\/8f4e92e7-c1ce-41f2-f711-speedy-weekender-enhanced\/162779359-117410303"
+        },
+        {
+            "id": "154283246",
+            "title": "10 'As Seen on TV' Products Put To The Test!",
+            "date_created": "1520902122",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "More Strange 'As Seen On TV' Products \u27a1 Subscribe Now! \u27a1 https:\/\/www.youtube.com\/user\/matthiasiam?sub_confirmation=1 \u2b07   MORE LINKS BELOW \u2b07   \u2b07   FOLLOW ME \u2b07   MATT & AMANDA...",
+            "asset": {
+                "type": "youtube",
+                "author": "Matthias",
+                "hdvFlag": 1,
+                "description": "More Strange 'As Seen On TV' Products \u27a1 Subscribe Now! \u27a1 https:\/\/www.youtube.com\/user\/matthiasiam?sub_confirmation=1 \u2b07   MORE LINKS BELOW \u2b07   \u2b07   FOLLOW ME \u2b07   MATT & AMANDA...",
+                "tags": "",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154283246\/thumbnail\/image-thumbnail-640-4059c6aa3f09070875a04ff59151aba5.jpg",
+                "videoId": "4LBxoqhPCYk",
+                "mediaDuration": 1432,
+                "prettyDuration": "00:23:52",
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/1758991\/154283246\/user-images\/image-1280-bce4ad33d554e51967bec233cbe555a3.jpg"
+                ],
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154283246\/user-images\/image-1280-bce4ad33d554e51967bec233cbe555a3.jpg",
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/1758991\/154283246\/thumbnail\/image-thumbnail-256-11a844bb04021795e16c6fea90528217.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/1758991\/154283246\/thumbnail\/image-thumbnail-480-378115ec3a69ddaa97f0c37c13fd4a9c.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/1758991\/154283246\/thumbnail\/image-thumbnail-640-4059c6aa3f09070875a04ff59151aba5.jpg",
+                    "1280": "\/\/v-dev.tvpage.com\/1758991\/154283246\/thumbnail\/image-thumbnail-1280-e42a8f32702ed7a246f39baebb3e1b2f.jpg"
+                },
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "162779359",
+            "url": "\/new-channel\/10-as-seen-on-tv-products-put-to-the-test\/162779359-154283246"
+        },
+        {
+            "id": "154285956",
+            "title": "12336748.mp4",
+            "date_created": "1520982357",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "346",
+                    "width": 724,
+                    "height": 408
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 724,
+                        "height": 408
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 724,
+                        "height": 408
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 724,
+                        "height": 408
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "346",
+                "prettyDuration": "00:05:46",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154285956\/thumbnail\/image-thumbnail-640-0bfc8194188f70f2ae850cbd7bc41ad8.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758991\/154285956\/0068b\/media.m3u8",
+                "automaticThumbnailsPattern": "1758991\/154285956\/0068b\/thumb-b9f0ea7056ce7caad305d7871cea06c3-{count}",
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/1758991\/154285956\/user-images\/image-724-00ca743cd87036890ef82b3dae8bd6ae.jpg"
+                ],
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154285956\/user-images\/image-724-00ca743cd87036890ef82b3dae8bd6ae.jpg",
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/1758991\/154285956\/thumbnail\/image-thumbnail-256-8fae697750743cf1489e8399ebda8490.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/1758991\/154285956\/thumbnail\/image-thumbnail-480-89437e33b587dfb23e2fda2600355b76.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/1758991\/154285956\/thumbnail\/image-thumbnail-640-0bfc8194188f70f2ae850cbd7bc41ad8.jpg"
+                }
+            },
+            "parentId": "162779359",
+            "url": "\/new-channel\/12336748-mp4\/162779359-154285956"
+        },
+        {
+            "id": "154765988",
+            "title": "1080p_media.mp4",
+            "date_created": "1521076522",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "16",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "16",
+                "prettyDuration": "00:00:16",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-640-ca04b7c99cfae14cbfb592f638dc6aff.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/154765988\/f65f6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/1758991\/154765988\/user-images\/image-1920-fb1fcbb070129f0e18672c9a4e70cbd3.jpg"
+                ],
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/154765988\/user-images\/image-1920-fb1fcbb070129f0e18672c9a4e70cbd3.jpg",
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-256-1ebb04bb27f23e413ee7e5403f3e4e7c.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-480-858799c402c306eb1c80742db5eaace3.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-640-ca04b7c99cfae14cbfb592f638dc6aff.jpg",
+                    "1280": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-1280-d8308490d685fa424646425786c17d31.jpg",
+                    "1920": "\/\/v-dev.tvpage.com\/1758991\/154765988\/thumbnail\/image-thumbnail-1920-010b1a5d909dacdbbcc962bbf988d6e7.jpg"
+                }
+            },
+            "parentId": "162779359",
+            "url": "\/new-channel\/1080p-media-mp4\/162779359-154765988"
+        },
+        {
+            "id": "154265110",
+            "title": "August Alsina | The Product 2 (Full Mixtape)",
+            "date_created": "1520892293",
+            "loginId": "1758991",
+            "tags": null,
+            "description": "Released May 2013 0:00 - 1:23 | The Product (feat. Jazze Pha) 1:23 - 5:46 | I Luv This Shit (feat. Trinidad Jame$) 5:46 - 9:36 | Work (feat. Roscoe Dash) 9:36 - 10:46 | Confessions Interlude...",
+            "asset": {
+                "type": "youtube",
+                "author": "LateNightLukas",
+                "hdvFlag": 1,
+                "description": "Released May 2013 0:00 - 1:23 | The Product (feat. Jazze Pha) 1:23 - 5:46 | I Luv This Shit (feat. Trinidad Jame$) 5:46 - 9:36 | Work (feat. Roscoe Dash) 9:36 - 10:46 | Confessions Interlude...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WY49EBDeWC8\/maxresdefault.jpg",
+                "videoId": "WY49EBDeWC8",
+                "mediaDuration": 2838,
+                "prettyDuration": "00:47:18"
+            },
+            "parentId": "162779359",
+            "url": "\/new-channel\/august-alsina-the-product-2-full-mixtape\/162779359-154265110"
+        }
+    ]
+}
